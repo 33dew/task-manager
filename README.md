@@ -5,5 +5,5 @@ pip install "fastapi[all]"
 
 # Step 2
 ```python
-uvicorn main:app --reload
+python main.py
 ```
